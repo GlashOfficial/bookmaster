@@ -12,8 +12,9 @@ users with an interactive and simple UI using Streamlit ✨
 ### Dependencies
 
 * Windows 11
-* Gemini API: https://ai.google.dev
-* Python
+* [Gemini API](https://ai.google.dev)
+* Python 3.12 or above
+* [Requirements](https://github.com/GlashOfficial/bookmaster/blob/main/requirements.txt)
 * Compiler
 
 ### Installing
@@ -22,7 +23,7 @@ users with an interactive and simple UI using Streamlit ✨
 ```
 git clone https://github.com/GlashOfficial/bookmaster.git
 ```
-* Install all the requirements
+* Install the requirements
 ```
 pip install -r requirements.txt
 ```
