@@ -4,6 +4,9 @@ Book Master
 ## Description
 This program can read & understand books in PDF format and answer any questions from contents in the book!
 
+Bookmaster uses Google's Gemini Pro LLM and Generative AI Embeddings with FAISS Vector Database and provides
+users with an interactive and simple UI using Streamlit ✨
+
 ## Getting Started
 
 ### Dependencies
@@ -24,7 +27,7 @@ git clone https://github.com/GlashOfficial/bookmaster.git
 pip install -r requirements.txt
 ```
 
-### Executing program
+### Executing the program
 
 * Paste your Gemini API in .env file
 ```
@@ -38,8 +41,11 @@ streamlit run bookmaster.py
 ## Authors
 
 Glash
-(https://x.com/Glash4k)
+[@Glash4k](https://x.com/Glash4k)
 
+## Version History
+* 1.0
+    * Initial Release
 
 ## License
 
