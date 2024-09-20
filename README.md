@@ -1,5 +1,5 @@
 # Project Title
-bookmaster
+Book Master
 
 ## Description
 This program can read & understand books in PDF format and answer any questions from contents in the book!
