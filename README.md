@@ -41,7 +41,6 @@ Bookmaster represents a significant leap forward in AI-powered reading assistanc
 * [Gemini API](https://ai.google.dev)
 * Python 3.12 or above
 * [Requirements](https://github.com/GlashOfficial/bookmaster/blob/main/requirements.txt)
-* Compiler
 
 
 ### TODO
