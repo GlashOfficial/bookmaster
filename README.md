@@ -15,17 +15,25 @@ This program can read & understand books in PDF format and answer any questions 
 
 ### Installing
 
-* clone the repository
-```https://github.com/GlashOfficial/bookmaster.git```
+* Clone the repository to your folder
+```
+git clone https://github.com/GlashOfficial/bookmaster.git
+```
 * Install all the requirements
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Executing program
 
 * Paste your Gemini API in .env file
-```GOOGLE_API_KEY='your_api_key'```
+```
+GOOGLE_API_KEY='your_api_key'
+```
 * Run the application from compiler terminal
-```streamlit run bookmaster.py```
+```
+streamlit run bookmaster.py
+```
 
 ## Authors
 
